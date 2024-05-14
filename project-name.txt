@@ -1,0 +1,19 @@
+1. Face-recognition
+2. Rice-grain quality
+3. Face-mask detection using (Python)
+4. Cat and Dog detection
+5. Facial-emotion recognition
+6. Image classifier
+7. Facial-expression recognition
+8. Face detection and count
+9. Currency detection
+10. Car Number plate detection
+11. Number Plate detection and recognition
+12. Image color identification
+13. Counting Red Blood Cells
+14. Image captioning
+15. Pan card tempering detection
+16. NIST_Handwritten_digit_recognition
+17. Mask detection
+18. Background Subtraction
+19. Image-augmentation
